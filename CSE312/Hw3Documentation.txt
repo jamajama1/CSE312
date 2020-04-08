@@ -1,0 +1,14 @@
+Jama Jama
+2/18/20
+
+How to run & test software:
+
+*IMPORTANT* I had to hard code in the file path of my html, css, and image (it was the only way, 
+using python3). You will need to change the path in order to run it properly. 
+
+In order to run my program, you must use a python ide. Run the program tcp.py using python3.7 or newer 
+and go to your browser and type the following the url "http://localhost:8000". You will notice that it will 
+have a message welcoming the new user which includes html, css, and image from server. If you refresh the page, you will see that it changes to welcome back 
+the recent user which demonstrates the completion of objective 1, 2, 3. If you type the following url 
+with the query "http://localhost:8000/?q=jama+jama", you will be redirected to a plain page with message 
+"Hello Jama, I'm responding to your query" which demonstrates the completion of objective 4.

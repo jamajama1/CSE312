@@ -1,0 +1,22 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Chat</title>
+    <script src= "ajax.js"></script>
+</head>
+<body onload="">
+    <h1>Welcome!</h1>
+    <div>
+        <label for="chat">Chat: </label>
+<input id="chatInput" type="text" name="message"><br/>
+<button onclick="sendMessage()">Send</button>
+    </div>
+    <div>
+        <label for="chatData">Dislpay All Messages: </label>
+<button onclick="getMessages()">Display!</button>
+    </div>
+    <p id="messages"></p>
+</body>
+</html>

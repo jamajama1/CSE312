@@ -1,0 +1,12 @@
+Jama Jama
+4/5/20
+
+How to run & test software:
+In order to run my program, you must use a python IDE. Run the program tcp.py using python3.7 or newer 
+and go to Mozilla Firefox and type the following the url "https://localhost:8003. You will be prompted to 
+proceed with safety warning since the certificate is self signed. Once you have advanced, you will be able 
+to see a webpage with using https protocol. The latter will demonstrate the completion of objective 1, 2, 
+and 3. Unfortunately I was not able to completely finish objective 4. However I did come close.
+
+
+I decided to use python's socketserver library after consulting with the professor. 

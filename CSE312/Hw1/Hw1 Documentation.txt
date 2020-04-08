@@ -1,0 +1,16 @@
+DOCUMENTATION:
+
+How to run:
+- If you want to run it on the browser, you can run the following link in the address bar. 
+cse.buffalo.edu/~jamajama/Hw1/
+You will see both links to the html files as well as my javascript and styling. 
+You can click any of these to view them.
+How to test:
+- You can test that all the objectives of the homework were met by clicking on any of the html files. You will see that all objectives are there and met. If you click on the hyperlinks in the html files, it will direct you to the other html file as requested. If you click on “click to count” you will see that the page responds to user input as requested.
+Architecture:
+- The layout is very simple with linked html files and a script and stylesheet.
+
+
+
+
+Jama Jama

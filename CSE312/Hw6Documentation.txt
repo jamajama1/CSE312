@@ -1,0 +1,11 @@
+Jama Jama
+4/2/20
+
+How to run & test software:
+In order to run my program, you must use a python ide. Run the program tcp.py using python3.7 or newer 
+and go to your and type the following the url "http://localhost:8003. Enter and send a message 
+in the chat. You should see that in the server, the socket is created and the message is decoded. 
+The latter will demonstrate the completion of objective 1 & 2. 
+
+
+I decided to use python's socketserver library after consulting with the professor. 

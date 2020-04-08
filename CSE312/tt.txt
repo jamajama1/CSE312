@@ -1,0 +1,34 @@
+<div className="feedTitle">
+            <h2>Friend's feed</h2>
+        </div><br/>
+    <div className="right">
+        <div className="right-post-container">  
+            <div className= "title">
+                <h4>Title of Post</h4>
+            </div>
+            <div className="content">
+                <img src="https://jgxf2r66dr-flywheel.netdna-ssl.com/wp-content/uploads/sites/3/2017/01/gray-box-1.png">
+                </img>
+                <p className= "message">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, 
+                nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis.
+                </p>
+            </div>
+        </div>
+    </div>
+    <div className="feedTitle2">
+            <h2>Popular feed</h2>
+        </div><br/>
+    <div className="left">
+        <div className="left-post-container">   
+            <div className= "title">
+                <h4>Title of Post</h4>
+            </div>
+            <div className="content">
+                <img src="https://jgxf2r66dr-flywheel.netdna-ssl.com/wp-content/uploads/sites/3/2017/01/gray-box-1.png">
+                </img>
+                <p className= "message">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, 
+                nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis.
+                </p>
+            </div>
+        </div>
+    </div>

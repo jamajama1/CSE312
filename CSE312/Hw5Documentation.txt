@@ -1,0 +1,10 @@
+Jama Jama
+3/6/20
+
+How to run & test software:
+In order to run my program, you must use a python ide. Run the program tcp.py using python3.7 or newer 
+and go to your and type the following the url "http://localhost:8000. Enter and send a message 
+in the chat. The latter will demonstrate the completion of objective 1 & 2. If you click on the
+display button; it will show all messages sent to sever, which demonstrates the completion of 
+objective 3. 
+I decided to use python's socketserver library after consulting with the professor. 

@@ -1,0 +1,20 @@
+.aa {
+    background-color: blue;
+}
+
+.bb {
+    background-color: darkgreen;
+}
+
+#a {
+    font-style: italic;
+}
+
+#b{
+    color: #bb4;
+}
+
+img {
+    width: 15%;
+    height: auto;
+  }
